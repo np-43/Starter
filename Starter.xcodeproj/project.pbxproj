@@ -7,6 +7,30 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		241D75E429959C4D00AB6502 /* TextViewLight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 241D75C929959C4D00AB6502 /* TextViewLight.swift */; };
+		241D75E529959C4D00AB6502 /* TextViewBold.swift in Sources */ = {isa = PBXBuildFile; fileRef = 241D75CA29959C4D00AB6502 /* TextViewBold.swift */; };
+		241D75E629959C4D00AB6502 /* BaseTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 241D75CB29959C4D00AB6502 /* BaseTextView.swift */; };
+		241D75E729959C4D00AB6502 /* TextViewSemiBold.swift in Sources */ = {isa = PBXBuildFile; fileRef = 241D75CC29959C4D00AB6502 /* TextViewSemiBold.swift */; };
+		241D75E829959C4D00AB6502 /* TextViewRegular.swift in Sources */ = {isa = PBXBuildFile; fileRef = 241D75CD29959C4D00AB6502 /* TextViewRegular.swift */; };
+		241D75E929959C4D00AB6502 /* TextViewMedium.swift in Sources */ = {isa = PBXBuildFile; fileRef = 241D75CE29959C4D00AB6502 /* TextViewMedium.swift */; };
+		241D75EA29959C4D00AB6502 /* LabelSemiBold.swift in Sources */ = {isa = PBXBuildFile; fileRef = 241D75D029959C4D00AB6502 /* LabelSemiBold.swift */; };
+		241D75EB29959C4D00AB6502 /* LabelBold.swift in Sources */ = {isa = PBXBuildFile; fileRef = 241D75D129959C4D00AB6502 /* LabelBold.swift */; };
+		241D75EC29959C4D00AB6502 /* LabelLight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 241D75D229959C4D00AB6502 /* LabelLight.swift */; };
+		241D75ED29959C4D00AB6502 /* BaseLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 241D75D329959C4D00AB6502 /* BaseLabel.swift */; };
+		241D75EE29959C4D00AB6502 /* LabelRegular.swift in Sources */ = {isa = PBXBuildFile; fileRef = 241D75D429959C4D00AB6502 /* LabelRegular.swift */; };
+		241D75EF29959C4D00AB6502 /* LabelMedium.swift in Sources */ = {isa = PBXBuildFile; fileRef = 241D75D529959C4D00AB6502 /* LabelMedium.swift */; };
+		241D75F029959C4D00AB6502 /* TextFieldSemiBold.swift in Sources */ = {isa = PBXBuildFile; fileRef = 241D75D729959C4D00AB6502 /* TextFieldSemiBold.swift */; };
+		241D75F129959C4D00AB6502 /* TextFieldMedium.swift in Sources */ = {isa = PBXBuildFile; fileRef = 241D75D829959C4D00AB6502 /* TextFieldMedium.swift */; };
+		241D75F229959C4D00AB6502 /* BaseTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 241D75D929959C4D00AB6502 /* BaseTextField.swift */; };
+		241D75F329959C4D00AB6502 /* TextFieldBold.swift in Sources */ = {isa = PBXBuildFile; fileRef = 241D75DA29959C4D00AB6502 /* TextFieldBold.swift */; };
+		241D75F429959C4D00AB6502 /* TextFieldLight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 241D75DB29959C4D00AB6502 /* TextFieldLight.swift */; };
+		241D75F529959C4D00AB6502 /* TextFieldRegular.swift in Sources */ = {isa = PBXBuildFile; fileRef = 241D75DC29959C4D00AB6502 /* TextFieldRegular.swift */; };
+		241D75F629959C4D00AB6502 /* ButtonBold.swift in Sources */ = {isa = PBXBuildFile; fileRef = 241D75DE29959C4D00AB6502 /* ButtonBold.swift */; };
+		241D75F729959C4D00AB6502 /* ButtonSemiBold.swift in Sources */ = {isa = PBXBuildFile; fileRef = 241D75DF29959C4D00AB6502 /* ButtonSemiBold.swift */; };
+		241D75F829959C4D00AB6502 /* ButtonMedium.swift in Sources */ = {isa = PBXBuildFile; fileRef = 241D75E029959C4D00AB6502 /* ButtonMedium.swift */; };
+		241D75F929959C4D00AB6502 /* ButtonLight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 241D75E129959C4D00AB6502 /* ButtonLight.swift */; };
+		241D75FA29959C4D00AB6502 /* BaseButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 241D75E229959C4D00AB6502 /* BaseButton.swift */; };
+		241D75FB29959C4D00AB6502 /* ButtonRegular.swift in Sources */ = {isa = PBXBuildFile; fileRef = 241D75E329959C4D00AB6502 /* ButtonRegular.swift */; };
 		242E83172995885C008531F8 /* NPSideMenuManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 242E83162995885C008531F8 /* NPSideMenuManager.swift */; };
 		242E8319299589BA008531F8 /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 242E8318299589BA008531F8 /* Settings.bundle */; };
 		242E831C29958A85008531F8 /* SettingsBundleManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 242E831B29958A85008531F8 /* SettingsBundleManager.swift */; };
@@ -74,6 +98,30 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		241D75C929959C4D00AB6502 /* TextViewLight.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextViewLight.swift; sourceTree = "<group>"; };
+		241D75CA29959C4D00AB6502 /* TextViewBold.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextViewBold.swift; sourceTree = "<group>"; };
+		241D75CB29959C4D00AB6502 /* BaseTextView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseTextView.swift; sourceTree = "<group>"; };
+		241D75CC29959C4D00AB6502 /* TextViewSemiBold.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextViewSemiBold.swift; sourceTree = "<group>"; };
+		241D75CD29959C4D00AB6502 /* TextViewRegular.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextViewRegular.swift; sourceTree = "<group>"; };
+		241D75CE29959C4D00AB6502 /* TextViewMedium.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextViewMedium.swift; sourceTree = "<group>"; };
+		241D75D029959C4D00AB6502 /* LabelSemiBold.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LabelSemiBold.swift; sourceTree = "<group>"; };
+		241D75D129959C4D00AB6502 /* LabelBold.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LabelBold.swift; sourceTree = "<group>"; };
+		241D75D229959C4D00AB6502 /* LabelLight.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LabelLight.swift; sourceTree = "<group>"; };
+		241D75D329959C4D00AB6502 /* BaseLabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseLabel.swift; sourceTree = "<group>"; };
+		241D75D429959C4D00AB6502 /* LabelRegular.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LabelRegular.swift; sourceTree = "<group>"; };
+		241D75D529959C4D00AB6502 /* LabelMedium.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LabelMedium.swift; sourceTree = "<group>"; };
+		241D75D729959C4D00AB6502 /* TextFieldSemiBold.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextFieldSemiBold.swift; sourceTree = "<group>"; };
+		241D75D829959C4D00AB6502 /* TextFieldMedium.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextFieldMedium.swift; sourceTree = "<group>"; };
+		241D75D929959C4D00AB6502 /* BaseTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseTextField.swift; sourceTree = "<group>"; };
+		241D75DA29959C4D00AB6502 /* TextFieldBold.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextFieldBold.swift; sourceTree = "<group>"; };
+		241D75DB29959C4D00AB6502 /* TextFieldLight.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextFieldLight.swift; sourceTree = "<group>"; };
+		241D75DC29959C4D00AB6502 /* TextFieldRegular.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextFieldRegular.swift; sourceTree = "<group>"; };
+		241D75DE29959C4D00AB6502 /* ButtonBold.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ButtonBold.swift; sourceTree = "<group>"; };
+		241D75DF29959C4D00AB6502 /* ButtonSemiBold.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ButtonSemiBold.swift; sourceTree = "<group>"; };
+		241D75E029959C4D00AB6502 /* ButtonMedium.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ButtonMedium.swift; sourceTree = "<group>"; };
+		241D75E129959C4D00AB6502 /* ButtonLight.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ButtonLight.swift; sourceTree = "<group>"; };
+		241D75E229959C4D00AB6502 /* BaseButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseButton.swift; sourceTree = "<group>"; };
+		241D75E329959C4D00AB6502 /* ButtonRegular.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ButtonRegular.swift; sourceTree = "<group>"; };
 		242E83162995885C008531F8 /* NPSideMenuManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NPSideMenuManager.swift; sourceTree = "<group>"; };
 		242E8318299589BA008531F8 /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Settings.bundle; sourceTree = "<group>"; };
 		242E831B29958A85008531F8 /* SettingsBundleManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsBundleManager.swift; sourceTree = "<group>"; };
@@ -172,6 +220,69 @@
 				7FD5B3FEC37468145C87247A /* Pods-StarterTests.release.xcconfig */,
 			);
 			path = Pods;
+			sourceTree = "<group>";
+		};
+		241D75C729959C4D00AB6502 /* AppControlClasses */ = {
+			isa = PBXGroup;
+			children = (
+				241D75C829959C4D00AB6502 /* TextView */,
+				241D75CF29959C4D00AB6502 /* Label */,
+				241D75D629959C4D00AB6502 /* TextField */,
+				241D75DD29959C4D00AB6502 /* Button */,
+			);
+			path = AppControlClasses;
+			sourceTree = "<group>";
+		};
+		241D75C829959C4D00AB6502 /* TextView */ = {
+			isa = PBXGroup;
+			children = (
+				241D75C929959C4D00AB6502 /* TextViewLight.swift */,
+				241D75CA29959C4D00AB6502 /* TextViewBold.swift */,
+				241D75CB29959C4D00AB6502 /* BaseTextView.swift */,
+				241D75CC29959C4D00AB6502 /* TextViewSemiBold.swift */,
+				241D75CD29959C4D00AB6502 /* TextViewRegular.swift */,
+				241D75CE29959C4D00AB6502 /* TextViewMedium.swift */,
+			);
+			path = TextView;
+			sourceTree = "<group>";
+		};
+		241D75CF29959C4D00AB6502 /* Label */ = {
+			isa = PBXGroup;
+			children = (
+				241D75D029959C4D00AB6502 /* LabelSemiBold.swift */,
+				241D75D129959C4D00AB6502 /* LabelBold.swift */,
+				241D75D229959C4D00AB6502 /* LabelLight.swift */,
+				241D75D329959C4D00AB6502 /* BaseLabel.swift */,
+				241D75D429959C4D00AB6502 /* LabelRegular.swift */,
+				241D75D529959C4D00AB6502 /* LabelMedium.swift */,
+			);
+			path = Label;
+			sourceTree = "<group>";
+		};
+		241D75D629959C4D00AB6502 /* TextField */ = {
+			isa = PBXGroup;
+			children = (
+				241D75D729959C4D00AB6502 /* TextFieldSemiBold.swift */,
+				241D75D829959C4D00AB6502 /* TextFieldMedium.swift */,
+				241D75D929959C4D00AB6502 /* BaseTextField.swift */,
+				241D75DA29959C4D00AB6502 /* TextFieldBold.swift */,
+				241D75DB29959C4D00AB6502 /* TextFieldLight.swift */,
+				241D75DC29959C4D00AB6502 /* TextFieldRegular.swift */,
+			);
+			path = TextField;
+			sourceTree = "<group>";
+		};
+		241D75DD29959C4D00AB6502 /* Button */ = {
+			isa = PBXGroup;
+			children = (
+				241D75DE29959C4D00AB6502 /* ButtonBold.swift */,
+				241D75DF29959C4D00AB6502 /* ButtonSemiBold.swift */,
+				241D75E029959C4D00AB6502 /* ButtonMedium.swift */,
+				241D75E129959C4D00AB6502 /* ButtonLight.swift */,
+				241D75E229959C4D00AB6502 /* BaseButton.swift */,
+				241D75E329959C4D00AB6502 /* ButtonRegular.swift */,
+			);
+			path = Button;
 			sourceTree = "<group>";
 		};
 		242E831529958850008531F8 /* NPSideMenuManager */ = {
@@ -302,6 +413,7 @@
 		249238CB2994B4B200013055 /* Utilities */ = {
 			isa = PBXGroup;
 			children = (
+				241D75C729959C4D00AB6502 /* AppControlClasses */,
 				242E831D29958C05008531F8 /* ServiceLayer */,
 				249238F92994C51100013055 /* Managers */,
 				249238D32994B62700013055 /* Extensions */,
@@ -646,36 +758,60 @@
 			buildActionMask = 2147483647;
 			files = (
 				249238E92994BE2000013055 /* StoryboardExtension.swift in Sources */,
+				241D75ED29959C4D00AB6502 /* BaseLabel.swift in Sources */,
 				249238DB2994B96100013055 /* FontExtension.swift in Sources */,
 				249238992994AAA500013055 /* ViewController.swift in Sources */,
 				242E8358299590DB008531F8 /* CommonEnums.swift in Sources */,
+				241D75F629959C4D00AB6502 /* ButtonBold.swift in Sources */,
+				241D75F729959C4D00AB6502 /* ButtonSemiBold.swift in Sources */,
+				241D75E729959C4D00AB6502 /* TextViewSemiBold.swift in Sources */,
+				241D75EC29959C4D00AB6502 /* LabelLight.swift in Sources */,
 				249238F12994C0F700013055 /* TextFieldExtension.swift in Sources */,
+				241D75F329959C4D00AB6502 /* TextFieldBold.swift in Sources */,
 				249238D02994B59900013055 /* AppConstant.swift in Sources */,
 				249238F32994C1B200013055 /* DictionaryExtension.swift in Sources */,
 				249238EB2994C03A00013055 /* EncodingExtension.swift in Sources */,
 				249238FC2994C52C00013055 /* NPBiometricManager.swift in Sources */,
 				249238F82994C21300013055 /* NSManagedObjectContextExtension.swift in Sources */,
+				241D75FA29959C4D00AB6502 /* BaseButton.swift in Sources */,
+				241D75E529959C4D00AB6502 /* TextViewBold.swift in Sources */,
 				242E83172995885C008531F8 /* NPSideMenuManager.swift in Sources */,
 				249238E32994BD5D00013055 /* TableViewExtension.swift in Sources */,
+				241D75FB29959C4D00AB6502 /* ButtonRegular.swift in Sources */,
 				242E832129958D09008531F8 /* CoreDataManager.swift in Sources */,
+				241D75EF29959C4D00AB6502 /* LabelMedium.swift in Sources */,
 				242E831C29958A85008531F8 /* SettingsBundleManager.swift in Sources */,
+				241D75F829959C4D00AB6502 /* ButtonMedium.swift in Sources */,
 				242E831F29958C19008531F8 /* APIManager.swift in Sources */,
+				241D75E829959C4D00AB6502 /* TextViewRegular.swift in Sources */,
 				249238CD2994B4E300013055 /* GeneralUtility.swift in Sources */,
+				241D75EB29959C4D00AB6502 /* LabelBold.swift in Sources */,
+				241D75E629959C4D00AB6502 /* BaseTextView.swift in Sources */,
+				241D75F029959C4D00AB6502 /* TextFieldSemiBold.swift in Sources */,
+				241D75EE29959C4D00AB6502 /* LabelRegular.swift in Sources */,
 				249238D72994B68500013055 /* ArrayExtension.swift in Sources */,
 				2492389F2994AAA500013055 /* Starter.xcdatamodeld in Sources */,
+				241D75E429959C4D00AB6502 /* TextViewLight.swift in Sources */,
+				241D75EA29959C4D00AB6502 /* LabelSemiBold.swift in Sources */,
 				249238DD2994BBBB00013055 /* DateExtension.swift in Sources */,
 				249238D92994B6C200013055 /* StringExtension.swift in Sources */,
 				249238EF2994C08A00013055 /* SearchBarExtension.swift in Sources */,
 				249238D22994B5CF00013055 /* ServerConstant.swift in Sources */,
+				241D75F129959C4D00AB6502 /* TextFieldMedium.swift in Sources */,
 				249238D52994B64600013055 /* DispatchQueueExtension.swift in Sources */,
 				249238DF2994BC8200013055 /* UserDefaultsExtension.swift in Sources */,
 				249238F62994C1FD00013055 /* NSManagedObjectExtension.swift in Sources */,
 				249238952994AAA500013055 /* AppDelegate.swift in Sources */,
 				249238E52994BD9E00013055 /* CollectionViewExtension.swift in Sources */,
+				241D75F429959C4D00AB6502 /* TextFieldLight.swift in Sources */,
 				249238FF2994C95D00013055 /* SafariViewControllerManager.swift in Sources */,
+				241D75F229959C4D00AB6502 /* BaseTextField.swift in Sources */,
 				249239022994CC3D00013055 /* ImagePickerManager.swift in Sources */,
+				241D75F929959C4D00AB6502 /* ButtonLight.swift in Sources */,
 				249238E72994BDCB00013055 /* ImageViewExtension.swift in Sources */,
 				249238E12994BD1A00013055 /* ViewExtension.swift in Sources */,
+				241D75E929959C4D00AB6502 /* TextViewMedium.swift in Sources */,
+				241D75F529959C4D00AB6502 /* TextFieldRegular.swift in Sources */,
 				249238ED2994C05200013055 /* ColorExtension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
